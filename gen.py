@@ -73,6 +73,11 @@ DATA = [
  ("39","STORE LOCATORS","Five fingerprints: how UK retail store locators actually work"),
  ("40","YEXT","One GET request returns every Waitrose store in the UK"),
  ("41","STORE APIS","Most chains just hand you their store list as JSON"),
+ ("42","WOOSMAP","Every store in a Woosmap locator, in one paginated GET"),
+ ("43","ALGOLIA","One empty query dumps a site's entire Algolia index"),
+ ("44","NO API","Every UK pub in one static .js file"),
+ ("45","SITEMAP","When there's no API, the sitemap is your database"),
+ ("46","HEADLESS BROWSER","When you actually need a headless browser (and when you don't)"),
 ]
 
 outdir = os.path.dirname(os.path.abspath(__file__))

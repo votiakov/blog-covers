@@ -78,7 +78,7 @@ DATA = [
  ("44","NO API","Every UK pub in one static .js file"),
  ("45","SITEMAP","When there's no API, the sitemap is your database"),
  ("46","HEADLESS BROWSER","When you actually need a headless browser (and when you don't)"),
- ("47","SHEIN DATA","97% of SHEIN's UK catalog is on sale, and other numbers from 5.15M products"),
+ ("47","SHEIN DATA","97% of SHEIN's UK catalog is on sale, and other numbers from 5M products"),
 ]
 
 outdir = os.path.dirname(os.path.abspath(__file__))
